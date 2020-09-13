@@ -9,6 +9,36 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    {
+    "_id" : "1",
+    "username" : "a",
+    "role" : "admin",
+    "password" : "adminroot"
+  },
+  {
+    "_id" : "2",
+    "username" : "b",
+    "role" : "khc",
+    "password" : "khcroot"
+  },
+{
+    "_id" : "3",
+    "username" : "c",
+    "role" : "khc",
+    "password" : "khcroot"
+  },
+{
+    "_id" : "4",
+    "username" : "d",
+    "role" : "thana",
+    "password" : "thanaroot"
+  },
+{
+    "_id" : "5",
+    "username" : "e",
+    "role" : "thana",
+    "password" : "thanaroot"
+  }
+  
   }
 }
